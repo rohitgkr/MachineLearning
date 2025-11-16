@@ -7,4 +7,4 @@ https://github.com/rohitgkr/MachineLearning/blob/main/Insurance_Underwriter_v2_D
 
 ## Various Regression experiments
 Linear & Polynomial Regression, DecisonTree, RandomForest, SVR, SGD, Lasso & Ridge :
-- https://github.com/rohitgkr/ML-regression/tree/main 
+https://github.com/rohitgkr/ML-regression/tree/main 
